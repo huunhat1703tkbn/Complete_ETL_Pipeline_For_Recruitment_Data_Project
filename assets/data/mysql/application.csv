@@ -1,0 +1,103 @@
+id,created_by,created_date,last_modified_by,last_modified_date,is_active,first_name,last_name,phone_number,city,postal_code,status,cv_url,is_review,is_match,is_contacted,is_rejected,score,email,job_id,user_id,conversation_id,country,is_notification_email,is_notification_sms,publisher_id
+2,admin,2022-04-22 21:00:59.821425,self_client,2022-07-15 03:31:04.802921,1,Moody,Rodriguez,+84984902137,Nelson,5589,0,http://localhost:3306/Ruiz/Hickman,0,0,0,0,1,6,262,155,,,1,1,1
+56,vanlinh.58th1@gmail.com,2022-06-06 09:24:44.285991,,2022-07-15 03:31:04.802921,1,firstName,lastName,phoneNumber,city,postalCode,1,http://localhost:3306/cv-url,1,1,1,1,1,email@gmail.com,143,,,country,1,1,1
+57,admin,2022-06-06 17:15:52.466627,,2022-07-15 03:31:04.802921,1,firstName,lastName,phoneNumber,city,postalCode,1,http://localhost:3306/cv-url,1,1,1,1,1,email@gmail.com,169,,,country,1,1,1
+59,hung99ktb@gmail.com,2022-06-08 03:50:17.137470,admin,2022-07-15 03:31:04.802921,1,Truong,Gia Binh,0333331111,Hanoi,550000,1,,0,0,0,0,,hung99ktb@gmail.com,6,110,,Vietnam,1,1,1
+60,hung99ktb@gmail.com,2022-06-08 03:50:27.161761,hung99ktb@gmail.com,2022-07-15 03:31:04.802921,1,Truong,Gia Binh,0333331111,Hanoi,550000,1,,0,0,0,0,,hung99ktb@gmail.com,3,110,,Vietnam,1,1,1
+62,vansuphan88@gmail.com,2022-06-10 07:40:15.509307,admin,2022-07-15 03:31:04.802921,1,Truong,Gia Binh,0333331111,Hanoi,550000,1,,0,0,0,0,,binh@localhost.it,89,97,,Vietnam,1,1,1
+63,vansuphan88@gmail.com,2022-06-10 17:49:08.129175,vansuphan88@gmail.com,2022-07-15 03:31:04.802921,1,Su,Phan,0937482988,HCM,550000,1,,0,0,0,0,,vansuphan88@gmail.com,94,97,,Vietnam,1,1,1
+64,vansuphan88@gmail.com,2022-06-10 18:03:06.992060,client1,2022-07-15 03:31:04.802921,1,Su,Phan,0937482988,HCM,550000,0,,0,0,0,0,,vansuphan00@gmail.com,90,97,,Vietnam,1,1,1
+65,vansuphan88@gmail.com,2022-06-11 03:40:48.351571,vansuphan88@gmail.com,2022-07-15 03:31:04.802921,1,Su,Phan,0937482988,HCM,550000,1,,0,0,0,0,,vansuphan88@gmail.com,91,97,,Vietnam,1,1,1
+66,vansuphan.kma@gmail.com,2022-06-11 07:24:44.360495,vansuphan.kma@gmail.com,2022-07-15 03:31:04.802921,1,Su,Phan,0937482988,HCM,550000,1,,0,0,0,0,,vansuphan88@gmail.com,90,106,,Vietnam,1,1,1
+69,vansuphan88@gmail.com,2022-06-11 10:27:24.006331,vansuphan88@gmail.com,2022-07-15 03:31:04.802921,1,Truong,Gia Binh,0333331111,Hanoi,550000,1,,0,0,0,0,,binh@localhost.it,117,97,,Vietnam,1,1,1
+70,vansuphan88@gmail.com,2022-06-11 10:42:24.917789,vansuphan88@gmail.com,2022-07-15 03:31:04.802921,1,Su,Phan,034-390-4858,Binh Dinh,550000,1,,0,0,0,0,,vansuphan88@gmail.com,96,97,,Vietnam,1,1,1
+71,vansuphan88@gmail.com,2022-06-11 10:44:42.092398,client1,2022-07-15 03:31:04.802921,1,Su,Phan,034-390-4858,BD,550000,0,,0,0,0,0,,vansuphan88@gmail.com,93,97,,Vietnam,1,1,1
+72,vansuphan88@gmail.com,2022-06-11 23:41:10.950578,self_client,2022-07-15 03:31:04.802921,1,Su,Phan,0333331111,QN,550000,1,,0,0,0,0,,binh@localhost.it,149,97,,Vietnam,1,1,1
+73,hung99ktb@gmail.com,2022-06-12 05:54:36.478481,hung99ktb@gmail.com,2022-07-15 03:31:04.802921,1,Le,The Anh,11,Ho Chi Minh,5500,1,,0,0,0,0,,binh@localhost.itui,89,110,,Japan,1,1,1
+74,hung99ktb@gmail.com,2022-06-12 06:20:24.882667,hung99ktb@gmail.com,2022-07-15 03:31:04.802921,1,Le,The Anh,11,Ho Chi Minh,5500,1,,0,0,0,0,,binh@localhost.itui,90,110,,Japan,1,1,1
+75,vansuphan88@gmail.com,2022-06-12 07:10:50.695040,vansuphan88@gmail.com,2022-07-15 03:31:04.802921,1,Su,Phan,034-390-4858,QN,550000,1,,0,0,0,0,,vansuphan88@gmail.com,189,97,,Vietnam,1,1,1
+76,vansuphan88@gmail.com,2022-06-12 07:20:55.478867,self_client,2022-07-15 03:31:04.802921,1,Su,Phan,033-333-1110,Hanoi,550000,1,,0,0,0,0,,binh@localhost.it,188,97,,Vietnam,1,1,1
+77,quanghoalearning@gmail.com,2022-06-12 08:43:44.983921,admin,2022-07-15 03:31:04.802921,1,hóa ,phí,038-803-7855,Holtsville,10000,1,,0,0,0,0,,quanghoalearning@gmail.com,89,123,,Puerto Rico,1,1,1
+78,quanghoalearning@gmail.com,2022-06-12 08:50:57.846472,quanghoalearning@gmail.com,2022-07-15 03:31:04.802921,1,hóa ,hoa,038-803-7862,Adjuntas,10000,1,,0,0,0,0,,quanghoalearning@gmail.com,91,123,,New York,1,1,1
+79,quanghoalearning@gmail.com,2022-06-12 08:51:16.765402,quanghoalearning@gmail.com,2022-07-15 03:31:04.802921,1,hóa ,hoa,038-803-7862,Adjuntas,10000,0,,0,0,0,0,,quanghoalearning@gmail.com,90,123,,New York,1,1,1
+80,hung99ktb@gmail.com,2022-06-12 09:04:31.735441,hung99ktb@gmail.com,2022-07-15 03:31:04.802921,1,le,the anh,098-179-6723,ha noi,120,1,,0,0,0,0,,AnhLT90@fsoft.com.vn,91,110,,viet nam,1,1,1
+81,vansuphan88@gmail.com,2022-06-12 22:05:23.034872,admin,2022-07-23 03:20:05,1,Su,Phan,0333331111,Holtsville,550000,1,,0,0,0,0,,vansuphan88@gmail.com,187,97,,Vietnam,1,1,1
+82,thangnq272@gmail.com,2022-07-08 04:07:11.016290,self_client,2022-07-15 10:07:58,1,Thang,Nguyen,181-798-1789,Hanoi,10000,1,,0,0,0,0,,thangnq272@gmail.com,187,129,,Vietnam,1,1,1
+83,vansuphan.kma@gmail.com,2022-07-08 06:05:52.077303,self_client,2022-07-15 02:55:30.200738,1,phan,su,164-390-4858,tudo,<html>xin chao</html>,1,,0,0,0,0,,vansuphan00@gmail.com,187,106,,Vietnam,1,1,1
+84,vansuphan.kma@gmail.com,2022-06-13 09:08:05.682966,self_client,2022-07-15 03:31:04.802921,1,phan,su,164-390-4858,tudo,<html>xin chao</html>,1,,0,0,0,0,,vansuphan88@gmail.com,188,106,,Vietnam,1,1,1
+85,vansuphan.kma@gmail.com,2022-06-13 09:09:55.613675,vansuphan.kma@gmail.com,2022-07-15 03:31:04.802921,1,phan,su,164-390-4858,tudo,<html>xin chao</html>,1,,0,0,0,0,,vansuphan88@gmail.com,89,106,,Vietnam,1,1,1
+86,hung99ktb@gmail.com,2022-06-14 02:32:57.150245,hung99ktb@gmail.com,2022-07-15 03:31:04.802921,1,Phuong,Ly Tran,2113445331,Ha Noi,1000,1,,0,0,0,0,,tranphuongly@fsoft.com.vn,117,110,,Viet Nam,1,1,1
+87,hung99ktb@gmail.com,2022-06-14 09:36:35.702653,hung99ktb@gmail.com,2022-07-15 03:31:04.802921,1,Phuong,Ly ,2113445331,Ha Noi,1000,1,,0,0,0,0,,tranphuongly@fsoft.com.vn,2,110,,Viet Nam,1,1,1
+88,letheanh123456@gmail.com,2022-06-14 09:40:56.322920,letheanh123456@gmail.com,2022-07-15 03:31:04.802921,1,le ,the anh,012-345-6789,ha noi,1200,1,,0,0,0,0,,letheanh123456@gmail.com,4,145,,viet nam,1,1,1
+89,letheanh123456@gmail.com,2022-06-14 09:45:33.991751,letheanh123456@gmail.com,2022-07-15 03:31:04.802921,1,le,the anh,0333331111,Hanoi,550000,1,,0,0,0,0,,letheanh123456@gmail.com,2,145,,Vietnam,1,1,1
+90,hung99ktb@gmail.com,2022-06-14 14:58:25.434426,hung99ktb@gmail.com,2022-07-15 03:31:04.802921,1,Phuong,Ly ,2113445331,Ha Noi,1000,1,,0,0,0,0,,hung99ktb@gmail.com,40,110,,Viet Nam,1,1,1
+91,hung99ktb@gmail.com,2022-06-14 15:05:56.828529,hung99ktb@gmail.com,2022-07-15 03:31:04.802921,1,Phuong,Ly ,2113445331,Ha Noi,1000,1,,0,0,0,0,,hung99ktb@gmail.com,8,110,,Viet Nam,1,1,1
+92,hung99ktb@gmail.com,2022-06-14 15:07:23.068065,hung99ktb@gmail.com,2022-07-15 03:31:04.802921,1,Phuong,Ly ,2113445331,Ha Noi,1000,1,,0,0,0,0,,hung99ktb@gmail.com,7,110,,Viet Nam,1,1,1
+93,hung99ktb@gmail.com,2022-06-14 15:10:18.135634,hung99ktb@gmail.com,2022-07-15 03:31:04.802921,1,Phuong,Ly ,2113445331,Ha Noi,1000,1,,0,0,0,0,,hung99ktb@gmail.com,4,110,,Viet Nam,1,1,1
+94,vansuphan88@gmail.com,2022-06-15 04:24:46.673605,vansuphan88@gmail.com,2022-07-15 03:31:04.802921,1,Su ,Phan Van,034-390-4858,Adjuntas,550000,1,,0,0,0,0,,vansuphan88@gmail.com,6,97,,Vietnam,0,0,1
+95,vansuphan88@gmail.com,2022-06-15 04:28:04.092925,vansuphan88@gmail.com,2022-07-15 03:31:04.802921,1,Su ,Phan Van,034-390-4858,Adjuntas,550000,1,,0,0,0,0,,vansuphan88@gmail.com,3,97,,Vietnam,0,0,1
+96,vansuphan88@gmail.com,2022-06-15 09:28:38.565791,myuser,2022-07-26 11:51:49,1,Su ,Phan Van,034-390-4858,Adjuntas,550000,1,,0,0,0,0,,vansuphan88@gmail.com,2,97,,Vietnam,1,1,1
+97,thangnq272@gmail.com,2022-06-17 09:23:41.133568,thangnq272@gmail.com,2022-07-15 03:31:04.802921,1,Thang,Nguyen,081-798-1789,Hanoi,10000,1,,0,0,0,0,,thangnq272@gmail.com,4,129,,Vietnam,0,0,1
+98,thangnq272@gmail.com,2022-06-17 09:37:32.041566,thangnq272@gmail.com,2022-07-15 03:31:04.802921,1,Thang,Nguyen,081-798-1789,Hanoi,10000,1,,0,0,0,0,,thangnq272@gmail.com,5,129,,Vietnam,0,0,1
+99,thangnq272@gmail.com,2022-06-17 09:38:25.185273,thangnq272@gmail.com,2022-07-15 03:31:04.802921,1,Thang,Nguyen,081-798-1789,Hanoi,10000,1,,0,0,0,0,,thangnq272@gmail.com,8,129,,Vietnam,0,0,1
+100,vansuphan88@gmail.com,2022-06-19 00:33:47.823563,admin,2022-07-15 03:31:04.802921,1,Su ,Phan Van,034-390-4858,Adjuntas,550000,1,,0,0,0,0,,vansuphan88@gmail.com,7,97,,Vietnam,1,0,1
+103,vansuphan.kma@gmail.com,2022-06-19 00:35:39.441845,vansuphan.kma@gmail.com,2022-07-15 03:31:04.802921,1,phan,su,094-390-4858,tudo,98767,1,,0,0,0,0,,vansuphan.kma@gmail.com,4,106,,Vietnam,1,0,1
+106,,2022-06-20 03:37:23.427618,,2022-07-15 03:31:04.802921,1,Su ,Phan Van,034-390-4858,Adjuntas,550000,1,,0,0,0,0,,vansuphan88@gmail.com,8,,,Vietnam,0,0,1
+107,,2022-06-20 03:44:41.017364,,2022-07-15 03:31:04.802921,1,Truong,Gia Binh,0333331111,Hanoi,550000,1,,0,0,0,0,,toan22211@localhost.it,2,,,Vietnam,0,0,1
+108,,2022-06-20 07:35:54.218177,,2022-07-15 03:31:04.802921,1,phan,su,+2943904858,tudo,2222,1,,0,0,0,0,,vansuphan333388@gmail.com,3,,,Vietnam,1,1,1
+109,,2022-06-20 07:36:19.116369,,2022-07-15 03:31:04.802921,1,phan,su,+643904858,tudo,<html>xin chao</html>,1,,0,0,0,0,,vansuphan8228@gmail.com,2,,,Vietnam,1,1,1
+110,,2022-06-20 07:39:57.018657,,2022-07-15 03:31:04.802921,1,phan,su,+8859439048,tudo,5555,1,,0,0,0,0,,vansuphan88858585@gmail.com,2,,,Vietnam,1,0,1
+111,hivog82113@runqx.com,2022-06-20 08:14:33.361430,hivog82113@runqx.com,2022-07-15 03:31:04.802921,1,phan,su,+84984902137,tudo,09244,1,,0,0,0,0,,hivog82113@runqx.com,2,159,,Vietnam,1,1,1
+112,,2022-06-20 08:19:06.881643,,2022-07-15 03:31:04.802921,1,phan,su,+84984902137,tudo,09244,1,,0,0,0,0,,hivog82113@runqx.com,3,,,Vietnam,1,0,1
+113,wenosod233@tagbert.com,2022-06-20 08:24:34.898096,wenosod233@tagbert.com,2022-07-15 03:31:04.802921,1,phan,su,+84984902137,tudo,09244,1,,0,0,0,0,,hivog82000113@runqx.com,6,160,,Vietnam,1,0,1
+114,wenosod233@tagbert.com,2022-06-20 08:26:28.379535,self_client,2022-07-15 03:31:04.802921,1,phan,su,+84984902137,tudo,09244,0,,0,0,0,0,,hivog82000113@runqx.com,2,160,,Vietnam,1,0,1
+115,cd3@localhost.it,2022-06-20 08:37:16.846677,user1141,2022-07-25 09:29:08,1,CD3,Gia CBinh,0333331111,Hanoi,550000,1,,0,0,0,0,,cd3@localhost.it,2,161,,Vietnam,1,1,1
+116,,2022-06-20 09:10:01.271562,,2022-07-15 03:31:04.802921,1,phan,su,+1643904858,tudo,<html>xin chao</html>,1,,0,0,0,0,,davega2696@serosin.com,2,,,Vietnam,1,1,1
+117,,2022-06-20 16:18:02.572082,,2022-07-15 03:31:04.802921,1,phan,su,+1643904858,tudo,<html>xin chao</html>,1,,0,0,0,0,,vansuphan8812234578@gmail.com,4,,,Vietnam,1,0,1
+118,vansuphan.kma@gmail.com,2022-06-20 16:44:10.794701,vansuphan.kma@gmail.com,2022-07-15 03:31:04.802921,1,Su ,Phan Van,+843904858,Adjuntas,550000,1,,0,0,0,0,,vansuphan.kma@gmail.com,3,106,,Vietnam,1,1,1
+119,,2022-06-20 16:48:23.877493,,2022-07-15 03:31:04.802921,1,Su ,Phan Van,+843904858,Adjuntas,550000,1,,0,0,0,0,,vansuphan222.kma@gmail.com,3,,,Vietnam,1,1,1
+120,,2022-06-20 16:58:13.804809,,2022-07-15 03:31:04.802921,1,phan,su,+1643904858,tudo,<html>xin chao</html>,1,,0,0,0,0,,vansuphan433288@gmail.com,6,,,Vietnam,1,0,1
+121,vansuphan.kma@gmail.com,2022-06-22 15:16:48.107794,vansuphan.kma@gmail.com,2022-07-15 03:31:04.802921,1,Su ,Phan Van,+843904858,Adjuntas,550000,1,,0,0,0,0,,vansuphan.kma@gmail.com,2,106,,Vietnam,1,1,1
+122,cdtest@mail.com,2022-06-22 16:11:11.051003,cdtest@mail.com,2022-07-15 03:31:04.802921,1,Test,Test,+84998999999,Adjuntas,123213,1,,0,0,0,0,,cdtest@mail.com,2,162,,Massachusetts,1,1,1
+123,quanghoalearning@gmail.com,2022-06-23 03:39:00.479867,quanghoalearning@gmail.com,2022-07-15 03:31:04.802921,1,hóa ,phí,+84388037862,Holtsville,10000,1,,0,0,0,0,,quanghoas@gmail.com,2,123,,New York,1,1,1
+124,quanghoalearning@gmail.com,2022-06-23 03:39:29.405700,quanghoalearning@gmail.com,2022-07-15 03:31:04.802921,1,hóa ,phí,+84388037862,Holtsville,10000,1,,0,0,0,0,,quanghoas@gmail.com,160,123,,New York,1,1,1
+125,quanghoalearning@gmail.com,2022-06-23 03:39:49.308627,quanghoalearning@gmail.com,2022-07-15 03:31:04.802921,1,hóa ,phí,+84388037862,Holtsville,10000,1,,0,0,0,0,,quanghoas@gmail.com,555,123,,New York,1,1,1
+126,quanghoalearning@gmail.com,2022-06-23 04:32:57.579065,quanghoalearning@gmail.com,2022-07-15 03:31:04.802921,1,hóa ,phí,+84388037862,Holtsville,10000,1,,0,0,0,0,,quanghoas@gmail.com,5,123,,New York,1,1,1
+127,testcd@localhost.it,2022-06-23 07:42:39.738690,testcd@localhost.it,2022-07-15 03:31:04.802921,1,OK,Hello,841-234-1244,Adjuntas,3432423,1,,0,0,0,0,,testcd@localhost.it,2,164,,Puerto Rico,1,1,1
+129,testcd@localhost.it,2022-06-23 07:46:18.844061,testcd@localhost.it,2022-07-15 03:31:04.802921,1,OK,Hello,841-234-1244,Adjuntas,3432423,1,,0,0,0,0,,testcd@localhost.it,3,164,,Puerto Rico,0,0,1
+130,candidatetest1@localhost.it,2022-06-23 07:56:09.256392,candidatetest1@localhost.it,2022-07-15 03:31:04.802921,1,Ten,Tuoi,+841213123,Holtsville,131231,1,,0,0,0,0,,candidatetest1@localhost.it,2,165,,Puerto Rico,1,1,1
+131,candidatetest1@localhost.it,2022-06-23 08:11:19.950198,candidatetest1@localhost.it,2022-07-15 03:31:04.802921,1,Ten,Tuoi,+841213123,Holtsville,131231,1,,0,0,0,0,,candidatetest1@localhost.it,9,165,,Puerto Rico,0,0,1
+132,quanghoalearning@gmail.com,2022-06-23 08:11:52.877890,quanghoalearning@gmail.com,2022-07-15 03:31:04.802921,1,hóa ,phí,+84388037862,Holtsville,10000,1,,0,0,0,0,,quanghoas@gmail.com,7,123,,New York,0,0,1
+133,quanghoalearning@gmail.com,2022-06-23 08:12:11.175247,quanghoalearning@gmail.com,2022-07-15 03:31:04.802921,1,hóa ,phí,+84388037862,Holtsville,10000,1,,0,0,0,0,,quanghoas@gmail.com,9,123,,New York,0,0,1
+134,,2022-06-23 08:13:58.594572,,2022-07-15 03:31:04.802921,1,phan,su,164-390-4858,tudo,<html>xin chao</html>,1,,0,0,0,0,,vansuphan8338@gmail.com,3,,,Vietnam,1,0,1
+135,,2022-06-23 08:26:18.987996,,2022-07-15 03:31:04.802921,1,phan,su,094-390-4858,tudo,90976756,1,,0,0,0,0,,vansuphan5456588@gmail.com,2,,,Massachusetts,1,0,1
+136,,2022-06-23 08:29:30.341052,,2022-07-15 03:31:04.802921,1,phan,su,164-390-4858,tudo,<html>xin chao</html>,1,,0,0,0,0,,vansuphan88323@gmail.com,2,,,Vietnam,1,0,1
+137,,2022-06-23 08:31:09.086675,,2022-07-15 03:31:04.802921,1,phan,su,164-390-4858,tudo,<html>xin chao</html>,1,,0,0,0,0,,vansuphan8534348@gmail.com,2,,,Vietnam,1,0,1
+138,,2022-06-23 08:33:31.015853,,2022-07-15 03:31:04.802921,1,phan,su,164-390-4858,tudo,<html>xin chao</html>,1,,0,0,0,0,,vansuphan8844@gmail.com,2,,,Vietnam,1,1,1
+139,cdtest2@localhost.it,2022-06-28 06:53:29.211924,cdtest2@localhost.it,2022-07-15 03:31:04.802921,1,OK,Con Dê,090-909-0909,Holtsville,3432432,2,,0,0,0,0,,cdtest2@localhost.it,3,181,,New York,1,1,1
+140,,2022-06-28 08:07:00.099569,,2022-07-15 03:31:04.802921,1,phan,su,034-390-4858,tudo,<html>xin chao</html>,2,,0,0,0,0,,vansuphan12288@gmail.com,3,,,Vietnam,0,0,1
+141,vansuphan88@gmail.com,2022-06-30 15:50:28.112289,vansuphan88@gmail.com,2022-07-15 03:31:04.802921,1,phan,su,064-390-4858,Adak,029309,2,,0,0,0,0,,vansuphan88@gmail.com,5,97,,Alaska,0,0,1
+142,vansuphan.kma@gmail.com,2022-06-30 16:28:01.312743,vansuphan.kma@gmail.com,2022-07-15 03:31:04.802921,1,Su ,Phan Van,034-390-4858,Adjuntas,550000,2,,0,0,0,0,,vansuphan.kma@gmail.com,7,106,,Vietnam,0,0,1
+144,vansuphan.kma@gmail.com,2022-06-30 16:29:52.624697,admin,2022-07-15 03:31:04.802921,1,Su ,Phan Van,034-390-4858,Adjuntas,550000,1,,0,0,0,0,,vansuphan.kma@gmail.com,5,106,,Vietnam,1,0,1
+145,cdtest2@localhost.it,2022-07-04 14:12:09.758849,user1141,2022-07-25 09:31:46,1,OK,Con Dê,090-909-0909,Holtsville,3432432,1,,0,0,0,0,,cdtest2@localhost.it,114,181,,New York,1,1,1
+146,candidatetest3@mail.com,2022-07-14 09:22:58.730119,candidatetest3@mail.com,2022-07-15 03:31:04.802921,1,werwer,rwerwe,432-432-4234,Adrian,213123,2,,0,0,0,0,,candidatetest3@mail.com,2,375,,Texas,1,1,1
+147,candidatetest3@mail.com,2022-07-14 09:22:58.730119,candidatetest3@mail.com,2022-07-15 03:31:04.802921,1,werwer,rwerwe,432-432-4234,Adrian,213123,2,,0,0,0,0,,candidatetest3@mail.com,2,375,,Texas,1,1,1
+148,candidatetest3@mail.com,2022-07-14 09:22:58.730119,candidatetest3@mail.com,2022-07-15 03:31:04.802921,1,werwer,rwerwe,432-432-4234,Adrian,213123,2,,0,0,0,0,,candidatetest3@mail.com,2,375,,Texas,1,1,1
+149,candidatetest3@mail.com,2022-07-08 09:22:58.730119,candidatetest3@mail.com,2022-07-15 03:31:04.802921,1,werwer,rwerwe,432-432-4234,Adrian,213123,2,,0,0,0,0,,candidatetest3@mail.com,98,359,,Texas,1,1,1
+150,candidatetest3@mail.com,2022-07-08 09:22:58.730119,candidatetest3@mail.com,2022-07-15 03:52:30.660894,1,werwer,rwerwe,432-432-4234,Adrian,213123,2,,0,0,0,0,,candidatetest3@mail.com,258,360,,Texas,1,1,3
+151,candidatetest3@mail.com,2022-07-13 15:22:58.730119,candidatetest3@mail.com,2022-07-15 03:31:04.802921,1,werwer,rwerwe,432-432-4234,Adrian,213123,2,,0,0,0,0,,candidatetest3@mail.com,98,361,,Texas,1,1,1
+153,vansuphan88@gmail.com,2022-07-15 13:38:41.001038,vansuphan88@gmail.com,2022-07-15 13:38:41.001038,1,phan,su,064-390-4858,Adak,029309,2,,0,0,0,0,,vansuphan88@gmail.com,880,97,,Alaska,0,0,
+154,hung99ktb@gmail.com,2022-07-18 09:30:18.578723,hung99ktb@gmail.com,2022-07-18 09:30:18.578723,1,Phuong 1hjjbj,Ly ,011-344-5339,Ha Noi,1000,2,,0,0,0,0,,1hung99ktb@gmail.com,114,110,,Viet Nam,0,0,
+156,doravo9110@lodores.com,2022-07-20 09:12:05.498677,doravo9110@lodores.com,2022-07-20 09:12:05.498677,1,phan,su,034-390-4858,Adak,0292733,2,,0,0,0,0,,doravo9110@lodores.com,2,416,,Alaska,1,0,
+157,Nghiatranvan93285@gmail.com,2022-07-21 04:18:50.638300,Nghiatranvan93285@gmail.com,2022-07-21 04:18:50.638300,1,Nghia,Tran,093-831-9642,Abbeville,5555,2,,0,0,0,0,,Nghiatranvan93285@gmail.com,2,420,,Alabama,1,1,
+158,,2022-07-22 21:53:30.417190,,2022-07-22 21:53:30.417190,1,phan,su,023-823-4353,Abernant,<html>xin chao</html>,2,,0,0,0,0,,lehad44061@anlubi.com,2,,,Alabama,1,0,
+159,,2022-07-22 22:03:48.318695,,2022-07-22 22:03:48.318695,1,phan,su,094-390-4858,www,33333,2,,0,0,0,0,,lehad44061@anlubi.com,2,,,Vietnam,0,0,
+160,hung99ktb@gmail.com,2022-07-25 07:39:37.259178,hung99ktb@gmail.com,2022-07-25 07:39:37.259178,1,Phuong 1hjjbj,Ly ,011-344-5339,Ha Noi,2000,2,,0,0,0,0,,1hung99ktb@gmail.com,98,110,,Viet Nam,0,0,
+161,test_candidate@localhost.it,2022-07-26 03:20:48.150981,test_candidate@localhost.it,2022-07-26 03:20:48.150981,1,dfắdfádf,ádfádfádf,097-525-4166,Akutan,100000,2,,0,0,0,0,,test_candidate@localhost.it,1219,453,,Alaska,0,0,
+162,test_candidate@localhost.it,2022-07-26 03:21:49.169880,test_candidate@localhost.it,2022-07-26 03:21:49.169880,1,12312312312,3123123123,097-525-4166,123123123,12123123,2,,0,0,0,0,,123123123123@ád.com,1221,453,,123123123,0,0,
+163,test_candidate@localhost.it,2022-07-26 03:23:38.116261,test_candidate@localhost.it,2022-07-26 03:23:38.116261,1,12312312312,3123123123,097-525-4166,123123123,12123123,2,,0,0,0,0,,123123123123@ád.com,1220,453,,123123123,0,0,
+164,test_candidate@localhost.it,2022-07-26 03:28:30.408314,test_candidate@localhost.it,2022-07-26 03:28:30.408314,1,12312312312,3123123123,097-525-4166,123123123,12123123,2,,0,0,0,0,,123123123123@ád.com,1331,453,,123123123,0,0,
+167,nguyenphuonghoangthi1@gmail.com,2022-07-26 04:09:17.212186,nguyenphuonghoangthi1@gmail.com,2022-07-26 04:09:17.212186,1,phan,su,028-288-2662,www,ww333,2,,0,0,0,0,,vansuphan88@gmail.com,114,118,,Vietnam,1,0,10
+171,hung99ktb@gmail.com,2022-07-26 07:57:10.389996,hung99ktb@gmail.com,2022-07-26 07:57:10.389996,1,Phuong 1hjjbj,Ly ,011-344-5339,Ha Noi,2000,2,,0,0,0,0,,1hung99ktb@gmail.com,100,110,,Viet Nam,0,0,
+175,hung99ktb@gmail.com,2022-07-27 06:51:18.701196,hung99ktb@gmail.com,2022-07-27 09:47:26.000854,1,Phuong 1hjjbj,Ly ,011-344-5339,Ha Noi,2000,2,,0,0,0,0,,1hung99ktb@gmail.com,2006,110,,Viet Nam,0,0,1
+176,fekapiw935@anlubi.com,2022-07-27 07:01:42.469386,fekapiw935@anlubi.com,2022-07-27 09:47:16.728878,1,le the ,Anh,012-345-6789,Abbeville,120,2,,0,0,0,0,,fekapiw935@anlubi.com,2006,472,,Alabama,0,0,1

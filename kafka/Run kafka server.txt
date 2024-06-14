@@ -1,0 +1,9 @@
+#Run kafka server
+#cd to the directory of kafka
+#start zoo keeper
+.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+#start kafka server
+.\bin\windows\kafka-server-start.bat .\config\server.properties
+#create kafka topic 
+.\bin\windows\kafka-topics.bat --create --bootstrap-server 192.168.56.1:9092 --replication-factor 1 --partitions 1 --topic myproject
+

@@ -5,6 +5,7 @@ Kafka for the messaging queue and put the raw data to Cassandra (Data Lake), PyS
 
 ## Architecture
 <img width="1000" alt="image" src="https://github.com/huunhat1703tkbn/Complete_ETL_Pipeline_For_Recruiment_Data_Project/blob/main/assets/images/pipeline_image.png">
+
 ### Raw Data
 - Log data from the website is processed real-time into Kafka, and from Kafka saved to the Data Lake is Cassandra.
 - Log data schema
@@ -41,6 +42,7 @@ root
  |-- v: integer (nullable = true)
  |-- vp: string (nullable = true)
 ```
+
 <img width="1000" alt="image" src="https://github.com/huunhat1703tkbn/Complete_ETL_Pipeline_For_Recruiment_Data_Project/blob/main/assets/images/cassandra_data_image.png">
 
 ### Processing Data

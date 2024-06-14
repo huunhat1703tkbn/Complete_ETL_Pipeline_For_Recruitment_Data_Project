@@ -1,0 +1,9 @@
+SQLAlchemy>=1.4
+python-dotenv
+cassandra-driver
+spark
+Grafana
+kafka
+docker
+time_uuid
+uuid

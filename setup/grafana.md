@@ -15,5 +15,5 @@ Default account to login
 - password: admin
 ```
 
-<img width="352" alt="image" src="">
+<img width="352" alt="image" src="https://github.com/huunhat1703tkbn/Complete_ETL_Pipeline_For_Recruiment_Data_Project/blob/main/assets/images/grafana_set_up.png">
 

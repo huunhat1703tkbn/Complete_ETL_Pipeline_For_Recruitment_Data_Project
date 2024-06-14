@@ -96,9 +96,9 @@ root
 #### Airflow setup
 - Install Airflow in Docker Compose
 #### Cassandra setup
-- Install Cassandra
+- Install Cassandra in Docker
 #### MySQL setup
-- Install MySQL
+- Install MySQL in Docker
 ## Get Going!
 - Setup Kafka service and start sending log data from website [Setup](setup/kafka.md)
 - Setup Airflow to trigger the daily data pipeline [Setup](setup/airflow.md)

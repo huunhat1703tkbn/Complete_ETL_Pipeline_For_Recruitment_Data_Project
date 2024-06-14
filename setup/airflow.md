@@ -2,7 +2,7 @@
  We will setup airflow on docker
 - Clone git repo
 
-``` git clone  &&  cd airflow``` 
+``` git clone https://github.com/huunhat1703tkbn/Complete_ETL_Pipeline_For_Recruiment_Data_Project/tree/main/airflow``` 
 
 - install docker
 ```docker-compose up```

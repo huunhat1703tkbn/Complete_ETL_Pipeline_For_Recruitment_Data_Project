@@ -1,9 +1,23 @@
 #Run kafka server
 #cd to the directory of kafka
+cd C:\Kafka\kafka_2.13-3.3.1
 #start zoo keeper
 .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
 #start kafka server
 .\bin\windows\kafka-server-start.bat .\config\server.properties
-#create kafka topic 
-.\bin\windows\kafka-topics.bat --create --bootstrap-server 192.168.56.1:9092 --replication-factor 1 --partitions 1 --topic myproject
+#create kafka topic
+.\bin\windows\kafka-topics.bat --create --bootstrap-server 192.168.56.1:9092 --replication-factor 1 --partitions 1 --topic test1
+#create kafka producer
+.\bin\windows\kafka-console-producer.bat --broker-list 192.168.56.1:9092 --topic test1
+#create kafka consumer
+.\bin\windows\kafka-console-consumer.bat --bootstrap-server 192.168.56.1:9092 --topic test1 --from-beginning
+#list topics
+.\bin\kafka-topics.sh --list --bootstrap-server localhost:9092
 
+Current ETL flow :
+
+Read data from Cassandra & MySQL => ETL to Final Output => Write Output to MySQL
+
+Using Kafka :
+
+Read data from Cassandra & MySQL => ETL to Final Output => Write output to Kafka => Use spark streaming to read output from Kafka => Write output to MySQL

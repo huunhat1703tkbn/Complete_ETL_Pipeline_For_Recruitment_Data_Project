@@ -21,7 +21,7 @@ def consume_from_kafka(cassandra_keyspace, kafka_topic, kafka_bootstrap_severs )
 
 if __name__ == "__main__":
     kafka_bootstrap_severs = "192.168.56.1:9092"
-    kafka_topic = "myproject"
+    kafka_topic = "test1"
     cassandra_keyspace = 'study_data_engineering'
 
     process = multiprocessing.Process(target=consume_from_kafka, args= (cassandra_keyspace, kafka_topic, kafka_bootstrap_severs))

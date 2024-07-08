@@ -4,6 +4,7 @@ Kafka for the messaging queue and put the raw data to Cassandra (Data Lake), PyS
 - Tech stack: PySpark, Airflow, Kafka, Docker, Cassandra, MySQL, Grafana, Python.
 
 ## Architecture
+<img width="1000" alt="image" src="https://github.com/huunhat1703tkbn/Complete_ETL_Pipeline_For_Recruiment_Data_Project/blob/main/assets/images/pipeline_image.png">
 
 ### Raw Data
 - Log data from the website is processed real-time into Kafka, and from Kafka saved to the Data Lake is Cassandra.
@@ -41,7 +42,8 @@ root
  |-- v: integer (nullable = true)
  |-- vp: string (nullable = true)
 ```
-<img width="1000" alt="image" src="">
+
+<img width="1000" alt="image" src="https://github.com/huunhat1703tkbn/Complete_ETL_Pipeline_For_Recruiment_Data_Project/blob/main/assets/images/cassandra_data_image.png">
 
 ### Processing Data
 Read and review the data recording user actions in the log data, notice that there are actions with analytical value in the column ```["custom_track"]``` including: ```clicks, conversion, qualified, unqualified```.
@@ -75,11 +77,15 @@ root
  |-- sources: string (nullable = true)
  |-- latest_update_time: timestamp (nullable = true)
 ```
-<img width="1000" alt="image" src="">
+<img width="1000" alt="image" src="https://github.com/huunhat1703tkbn/Complete_ETL_Pipeline_For_Recruiment_Data_Project/blob/main/assets/images/data_warehouse_image.png">
+
+### Setup Job with Airflow
+<img width="929" alt="image" src="https://github.com/huunhat1703tkbn/Complete_ETL_Pipeline_For_Recruiment_Data_Project/blob/main/assets/images/airflow_image.png">
+
 
 ### Visualizing Data with Grafana
 
-<img width="929" alt="image" src="">
+<img width="929" alt="image" src="https://github.com/huunhat1703tkbn/Complete_ETL_Pipeline_For_Recruiment_Data_Project/blob/main/assets/images/grafana_image.png">
 
 ## Setup
 ### Pre-requisite
@@ -90,9 +96,9 @@ root
 #### Airflow setup
 - Install Airflow in Docker Compose
 #### Cassandra setup
-- Install Cassandra
+- Install Cassandra in Docker
 #### MySQL setup
-- Install MySQL
+- Install MySQL in Docker
 ## Get Going!
 - Setup Kafka service and start sending log data from website [Setup](setup/kafka.md)
 - Setup Airflow to trigger the daily data pipeline [Setup](setup/airflow.md)

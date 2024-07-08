@@ -15,5 +15,4 @@ Default account to login
 - password: admin
 ```
 
-<img width="352" alt="image" src="">
 

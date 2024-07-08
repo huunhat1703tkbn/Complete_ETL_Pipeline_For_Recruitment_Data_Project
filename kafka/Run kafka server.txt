@@ -13,11 +13,3 @@ cd C:\Kafka\kafka_2.13-3.3.1
 .\bin\windows\kafka-console-consumer.bat --bootstrap-server 192.168.56.1:9092 --topic test1 --from-beginning
 #list topics
 .\bin\kafka-topics.sh --list --bootstrap-server localhost:9092
-
-Current ETL flow :
-
-Read data from Cassandra & MySQL => ETL to Final Output => Write Output to MySQL
-
-Using Kafka :
-
-Read data from Cassandra & MySQL => ETL to Final Output => Write output to Kafka => Use spark streaming to read output from Kafka => Write output to MySQL
